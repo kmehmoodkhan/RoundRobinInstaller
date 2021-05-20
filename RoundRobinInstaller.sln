@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "RoundRobinInstaller", "RoundRobinInstaller\RoundRobinInstaller.vdproj", "{D6057CB2-6D3D-4AEF-B441-BD32E3D53DB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BatchRunner", "BatchRunner\BatchRunner.csproj", "{F7365549-E71F-40E5-BBA2-62A0B4606F60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6057CB2-6D3D-4AEF-B441-BD32E3D53DB6}.Debug|Any CPU.ActiveCfg = Debug
+		{D6057CB2-6D3D-4AEF-B441-BD32E3D53DB6}.Debug|Any CPU.Build.0 = Debug
+		{D6057CB2-6D3D-4AEF-B441-BD32E3D53DB6}.Release|Any CPU.ActiveCfg = Release
+		{D6057CB2-6D3D-4AEF-B441-BD32E3D53DB6}.Release|Any CPU.Build.0 = Release
+		{F7365549-E71F-40E5-BBA2-62A0B4606F60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7365549-E71F-40E5-BBA2-62A0B4606F60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7365549-E71F-40E5-BBA2-62A0B4606F60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7365549-E71F-40E5-BBA2-62A0B4606F60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1BC82E8-440B-470F-9926-63EE7515D1F3}
+	EndGlobalSection
+EndGlobal
