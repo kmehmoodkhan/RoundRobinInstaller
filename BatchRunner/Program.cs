@@ -18,6 +18,7 @@ namespace BatchRunner
             try
 
             {
+                //test
                 string targetDir = System.IO.Path.GetDirectoryName(Assembly.GetEntryAssembly().Location);
                 string fileName = "";
 
